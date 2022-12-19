@@ -1,4 +1,4 @@
-# This repo contains some usefull data science snippets in kaggle notebooks
+# This repo contains some useful data science snippets in Kaggle notebooks
 
 The list is as follows:
 
